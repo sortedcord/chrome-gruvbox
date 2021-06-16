@@ -1,11 +1,5 @@
-# chrome-gruvbox
-Port of the gruvbox retro groove color scheme for Chrome
-
-The original Vim theme can be found here: https://github.com/morhetz/gruvbox
-
-## Installation
-
-Install via the Chrome Webstore: [gruvbox theme](https://chrome.google.com/webstore/detail/gruvbox-theme/ihennfdbghdiflogeancnalflhgmanop)
+# chrome-gruvbox-pink
+Modified Gruvbox theme for chrome
 
 ## Screenshots
 
