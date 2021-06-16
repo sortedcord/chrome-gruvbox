@@ -8,7 +8,7 @@
       "frame_inactive" : [18, 16, 18],
       "frame_incognito" : [28, 27, 34],
       "frame_incognito_inactive" : [28, 27, 34],
-      "toolbar" : [93,77,101],
+      "toolbar" : [43,42,51],
       "tab_text" : [198,180,191],
       "tab_background_text" : [141,128,136],
       "bookmark_text" : [148,134,143]
