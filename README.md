@@ -5,6 +5,8 @@ Modified Gruvbox theme for chrome
 
 ![gruvbox Chrome Theme Screenshot](screenshot.png)
 
+## Installation
+clone this repo and drag the folder in chrome://extensions page after enabling developer mode. The theme will automatically be applied.
 ## Contributing
 Issues/PRs are much appreciated!
 
